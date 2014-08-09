@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Data Science Coursera course
+Collection of work for the Data Science Coursera track.
